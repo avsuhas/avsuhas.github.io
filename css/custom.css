@@ -1,0 +1,51 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.navbar-brand  {
+    font-family: cursive;
+}
+.jumbotron{
+	text-align: center;
+}
+
+.jumbotron h1{
+	font-family: 'Arvo',  serif;
+
+}
+
+.blog-post{
+	padding: 80px;
+	padding-top: inherit;
+	margin: 15px;
+	border: 15px;
+}
+
+img {
+    border: 0;
+    width: 80px;
+    margin-left: 44px
+}
+
+.blog-post h3{
+	    font-size: 42px;
+    padding-top: 22px;
+	font-family: 'Handlee', cursive;
+}
+
+.other_interest h3{
+	text-align: center;
+	border :1px solid;
+}
+
+
+
+
+
+
+
+
+
+
